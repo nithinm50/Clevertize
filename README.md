@@ -1,2 +1,0 @@
-# Clevertize
-Created with CodeSandbox
